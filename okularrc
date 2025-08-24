@@ -1,0 +1,15 @@
+[Desktop Entry]
+FullScreen=false
+
+[General]
+LockSidebar=true
+ShowSidebar=false
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/Lets Go (Alex Edwards) (Z-Library).pdf
+File2[$e]=$HOME/Documents/books/Anormal Psikoloji Temel Kavramlar (James N. Butcher, Susan Mineka, Jill M. Hooley) (Z-Library).pdf
+Name1[$e]=Lets Go (Alex Edwards) (Z-Library).pdf
+Name2[$e]=Anormal Psikoloji Temel Kavramlar (James N. Butcher, Susan Mineka, Jill M. Hooley) (Z-Library).pdf
+
+[UiSettings]
+ColorScheme=Breeze Dark

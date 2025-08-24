@@ -1,2 +1,6 @@
-2025/08/22-13:03:34.260 98d0 Creating DB /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
-2025/08/22-13:03:34.262 98d0 Reusing MANIFEST /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/23-01:20:44.930 50a Reusing MANIFEST /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/23-01:20:44.930 50a Recovering log #4
+2025/08/23-01:20:44.933 50a Reusing old log /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2025/08/23-01:20:59.331 50a Level-0 table #8: started
+2025/08/23-01:20:59.352 50a Level-0 table #8: 3233232 bytes OK
+2025/08/23-01:20:59.355 50a Delete type=0 #4

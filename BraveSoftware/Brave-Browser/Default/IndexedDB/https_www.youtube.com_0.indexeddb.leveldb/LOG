@@ -1,13 +1,12 @@
-2025/08/23-00:43:45.753 50e Reusing MANIFEST /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/08/23-00:43:45.754 50e Recovering log #70
-2025/08/23-00:43:45.759 50e Reusing old log /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000070.log 
-2025/08/23-00:43:46.730 501 Level-0 table #75: started
-2025/08/23-00:43:46.739 501 Level-0 table #75: 1190171 bytes OK
-2025/08/23-00:43:46.740 501 Delete type=0 #70
-2025/08/23-00:43:46.741 501 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/08/23-00:43:46.741 501 Manual compaction at level-1 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1d\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xa0L=/\x8dyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 20416 : 0
-2025/08/23-00:43:46.741 501 Compacting 1@1 + 1@2 files
-2025/08/23-00:43:46.745 501 Generated table #76@1: 370 keys, 65455 bytes
-2025/08/23-00:43:46.745 501 Compacted 1@1 + 1@2 files => 65455 bytes
-2025/08/23-00:43:46.746 501 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/23-00:43:46.747 501 Manual compaction at level-1 from '\x00\x1d\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xa0L=/\x8dyB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 20416 : 0 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/08/24-13:24:40.058 4b12d Reusing MANIFEST /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/24-13:24:40.058 4b12d Recovering log #103
+2025/08/24-13:24:40.060 4b12d Reusing old log /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000103.log 
+2025/08/24-13:24:53.354 4b12c Level-0 table #108: started
+2025/08/24-13:24:53.363 4b12c Level-0 table #108: 1571971 bytes OK
+2025/08/24-13:24:53.365 4b12c Delete type=0 #103
+2025/08/24-13:25:13.150 4b12c Compacting 1@1 + 1@2 files
+2025/08/24-13:25:13.155 4b12c Generated table #109@1: 604 keys, 84670 bytes
+2025/08/24-13:25:13.155 4b12c Compacted 1@1 + 1@2 files => 84670 bytes
+2025/08/24-13:25:13.156 4b12c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/24-13:25:13.156 4b12c Delete type=2 #105
+2025/08/24-13:25:13.156 4b12c Delete type=2 #108

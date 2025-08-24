@@ -1,0 +1,14 @@
+2025/08/23-20:28:06.662 500 Reusing MANIFEST /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_deepwiki.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/23-20:28:06.663 500 Recovering log #10
+2025/08/23-20:28:06.663 500 Reusing old log /home/mete/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_deepwiki.com_0.indexeddb.leveldb/000010.log 
+2025/08/23-20:28:06.663 500 Delete type=2 #8
+2025/08/23-20:28:06.765 500 Level-0 table #15: started
+2025/08/23-20:28:06.766 500 Level-0 table #15: 502 bytes OK
+2025/08/23-20:28:06.768 500 Delete type=0 #10
+2025/08/23-20:28:06.768 500 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 146 : 1
+2025/08/23-20:28:06.768 500 Compacting 1@0 + 1@1 files
+2025/08/23-20:28:06.769 500 Generated table #16@0: 7 keys, 435 bytes
+2025/08/23-20:28:06.769 500 Compacted 1@0 + 1@1 files => 435 bytes
+2025/08/23-20:28:06.770 500 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/23-20:28:06.771 500 Delete type=2 #15
+2025/08/23-20:28:06.771 500 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 146 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

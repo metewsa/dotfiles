@@ -1,0 +1,28 @@
+{
+  "add a plugin dialog": "/home/mete/Downloads",
+  "add books dialog dir": "/home/mete/Documents/books",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "database location dialog": "/home/mete/Documents/Calibre",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "8.9"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kobo",
+  "welcome_wizard_was_run": true
+}

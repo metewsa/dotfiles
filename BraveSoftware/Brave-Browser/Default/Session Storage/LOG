@@ -1,35 +1,40 @@
-2025/08/23-00:03:15.793 4 Reusing MANIFEST /home/mete/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
-2025/08/23-00:03:15.794 4 Recovering log #48
-2025/08/23-00:03:15.799 4 Level-0 table #52: started
-2025/08/23-00:03:15.807 4 Level-0 table #52: 465912 bytes OK
-2025/08/23-00:03:15.807 4 Recovering log #52
-2025/08/23-00:03:15.807 4 Reusing old log /home/mete/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000052.log 
-2025/08/23-00:03:15.809 4 Delete type=0 #48
-2025/08/23-00:03:15.809 4 Delete type=2 #53
-2025/08/23-00:36:25.645 5 Level-0 table #54: started
-2025/08/23-00:36:25.651 5 Level-0 table #54: 370992 bytes OK
-2025/08/23-00:36:25.653 5 Delete type=0 #52
-2025/08/23-00:37:34.381 5 Level-0 table #56: started
-2025/08/23-00:37:34.387 5 Level-0 table #56: 371055 bytes OK
-2025/08/23-00:37:34.389 5 Delete type=0 #53
-2025/08/23-00:39:42.664 5 Level-0 table #58: started
-2025/08/23-00:39:42.667 5 Level-0 table #58: 237341 bytes OK
-2025/08/23-00:39:42.669 5 Delete type=0 #55
-2025/08/23-00:39:42.669 5 Compacting 4@0 + 1@1 files
-2025/08/23-00:39:42.684 5 Generated table #59@0: 1105 keys, 996666 bytes
-2025/08/23-00:39:42.684 5 Compacted 4@0 + 1@1 files => 996666 bytes
-2025/08/23-00:39:42.686 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/08/23-00:39:42.686 5 Delete type=2 #50
-2025/08/23-00:39:42.686 5 Delete type=2 #52
-2025/08/23-00:39:42.686 5 Delete type=2 #54
-2025/08/23-00:39:42.686 5 Delete type=2 #56
-2025/08/23-00:39:42.686 5 Delete type=2 #58
-2025/08/23-00:39:57.455 5 Level-0 table #61: started
-2025/08/23-00:39:57.457 5 Level-0 table #61: 45497 bytes OK
-2025/08/23-00:39:57.459 5 Delete type=0 #57
-2025/08/23-00:42:59.542 5 Level-0 table #63: started
-2025/08/23-00:42:59.548 5 Level-0 table #63: 361528 bytes OK
-2025/08/23-00:42:59.550 5 Delete type=0 #60
-2025/08/23-00:45:55.990 5 Level-0 table #65: started
-2025/08/23-00:45:55.994 5 Level-0 table #65: 224190 bytes OK
-2025/08/23-00:45:55.996 5 Delete type=0 #62
+2025/08/24-15:46:14.892 4 Reusing MANIFEST /home/mete/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/08/24-15:46:14.893 4 Recovering log #296
+2025/08/24-15:46:14.893 4 Reusing old log /home/mete/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000296.log 
+2025/08/24-15:46:29.380 5 Level-0 table #300: started
+2025/08/24-15:46:29.386 5 Level-0 table #300: 370109 bytes OK
+2025/08/24-15:46:29.388 5 Delete type=0 #296
+2025/08/24-15:46:33.569 5 Level-0 table #302: started
+2025/08/24-15:46:33.575 5 Level-0 table #302: 565003 bytes OK
+2025/08/24-15:46:33.576 5 Delete type=0 #299
+2025/08/24-15:46:33.577 5 Compacting 4@0 + 1@1 files
+2025/08/24-15:46:33.596 5 Generated table #303@0: 3314 keys, 1164508 bytes
+2025/08/24-15:46:33.596 5 Compacted 4@0 + 1@1 files => 1164508 bytes
+2025/08/24-15:46:33.597 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/24-15:46:33.598 5 Delete type=2 #293
+2025/08/24-15:46:33.598 5 Delete type=2 #295
+2025/08/24-15:46:33.598 5 Delete type=2 #297
+2025/08/24-15:46:33.598 5 Delete type=2 #300
+2025/08/24-15:46:33.598 5 Delete type=2 #302
+2025/08/24-15:47:54.392 5 Level-0 table #305: started
+2025/08/24-15:47:54.398 5 Level-0 table #305: 365431 bytes OK
+2025/08/24-15:47:54.400 5 Delete type=0 #301
+2025/08/24-15:48:41.485 4 Level-0 table #307: started
+2025/08/24-15:48:41.487 4 Level-0 table #307: 49178 bytes OK
+2025/08/24-15:48:41.488 4 Delete type=0 #304
+2025/08/24-16:14:05.068 5 Level-0 table #309: started
+2025/08/24-16:14:05.074 5 Level-0 table #309: 364306 bytes OK
+2025/08/24-16:14:05.076 5 Delete type=0 #306
+2025/08/24-16:14:12.418 5 Level-0 table #311: started
+2025/08/24-16:14:12.424 5 Level-0 table #311: 365002 bytes OK
+2025/08/24-16:14:12.426 5 Delete type=0 #308
+2025/08/24-16:14:12.427 5 Compacting 4@0 + 1@1 files
+2025/08/24-16:14:12.450 5 Generated table #312@0: 2732 keys, 2283405 bytes
+2025/08/24-16:14:12.452 5 Generated table #313@0: 650 keys, 24224 bytes
+2025/08/24-16:14:12.452 5 Compacted 4@0 + 1@1 files => 2307629 bytes
+2025/08/24-16:14:12.453 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/08/24-16:14:12.453 5 Delete type=2 #303
+2025/08/24-16:14:12.454 5 Delete type=2 #305
+2025/08/24-16:14:12.454 5 Delete type=2 #307
+2025/08/24-16:14:12.454 5 Delete type=2 #309
+2025/08/24-16:14:12.454 5 Delete type=2 #311
